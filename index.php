@@ -5,17 +5,20 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html>
+    
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="Css/Style.css">
         <title>ApertureScience</title>
     </head>
+    
     <body>
-        <header>
+        <header class="site-header inicio">
+            
             <div class="barra">
-                <img src="image\logo.jpg">
-                </a>
+                <img src="image\logo.png">
+                
                 <div class="navegacion">
                     <nav class="Superior">
                         <a href="index.php">Home</a>
@@ -24,9 +27,11 @@ and open the template in the editor.
                         <a href="/">Productos</a>
                     </nav>
                 </div>
+                
             </div>
-            <div class="Slogan">
-                <h1>
+                
+            <div>
+                <h1 class="contenedor-de-barra h1">
                     Innovacion para la humanidad
                 </h1>
             </div>

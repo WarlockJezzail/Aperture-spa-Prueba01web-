@@ -1,0 +1,47 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Manrope', sans-serif;
+    font-size: 1.6rem;
+}
+.barra{
+    max-width: 120rem;
+    margin: 0 auto 0 auto;
+}
+h1{
+    font-size: 3.8rem;
+    color:buttonface
+}
+h2{
+    font-size: 3.4rem;
+}
+h3{
+    font-size: 3rem;
+}
+h4{
+    font-size: 2.6rem;
+}
+.site-header.inicio{
+    background-image: url(../image/background.jpg);
+    background-position: center, center;
+    background-size: cover;
+    height: 55vh;
+    min-width: 60 rem;
+}
+.contenedor-de-barra h1{
+    color:bisque;
+    
+}
+.barra{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 3rem;
+}
+.navegacion a {
+    color: whitesmoke;
+    font-size: 1.8rem;
+    margin-right: 2rem;
+}
+
