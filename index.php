@@ -22,9 +22,9 @@ and open the template in the editor.
                 <div class="navegacion">
                     <nav class="Superior">
                         <a href="index.php">Home</a>
-                        <a href="/">Nosotros</a>
-                        <a href="/">Contacto</a>
-                        <a href="/">Productos</a>
+                        <a href="#">Nosotros</a>
+                        <a href="#">Contacto</a>
+                        <a href="#">Productos</a>
                     </nav>
                 </div>
                 
@@ -39,7 +39,7 @@ and open the template in the editor.
         
         <section>
             <div class="Producto">
-                <h2>Mas sobre nosotros</h2>>
+                <h2>Mas sobre nosotros</h2>
 
                 <img src="image/icono1.svg" alt="Icono de Seguridad">
                 <h3>Seguridad</h3>
@@ -62,9 +62,9 @@ and open the template in the editor.
         <aside>
             div
             <h2>Otros sitios que te podrian interesar: </h2>
-            <a href="/">Black Mesa</a>
-            <a href="/">Gordon Freeman</a>
-            <a href="/">G-Man</a>
+            <a href="#">Black Mesa</a>
+            <a href="#">Gordon Freeman</a>
+            <a href="#">G-Man</a>
         </aside>
     </body>
     <footer>
